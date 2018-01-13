@@ -1,0 +1,5 @@
+D:\HospitalDevExpress\HospitalDevexpress\ReportService\bin\Debug\ReportService.dll
+D:\HospitalDevExpress\HospitalDevexpress\ReportService\bin\Debug\ReportService.pdb
+D:\HospitalDevExpress\HospitalDevexpress\ReportService\obj\Debug\ReportService.csproj.CoreCompileInputs.cache
+D:\HospitalDevExpress\HospitalDevexpress\ReportService\obj\Debug\ReportService.dll
+D:\HospitalDevExpress\HospitalDevexpress\ReportService\obj\Debug\ReportService.pdb

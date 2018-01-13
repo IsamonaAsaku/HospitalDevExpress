@@ -1,0 +1,9 @@
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\bin\Debug\HostConsole.exe
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\bin\Debug\HostConsole.pdb
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\obj\Debug\HostConsole.csprojResolveAssemblyReference.cache
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\obj\Debug\HostConsole.csproj.CoreCompileInputs.cache
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\obj\Debug\HostConsole.exe
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\obj\Debug\HostConsole.pdb
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\bin\Debug\HostConsole.exe.config
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\bin\Debug\ReportService.dll
+D:\HospitalDevExpress\HospitalDevexpress\HostConsole\bin\Debug\ReportService.pdb

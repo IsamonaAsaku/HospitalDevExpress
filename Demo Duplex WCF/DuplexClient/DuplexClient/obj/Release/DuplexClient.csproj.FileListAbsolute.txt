@@ -1,0 +1,10 @@
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\bin\Release\DuplexClient.exe.config
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\bin\Release\DuplexClient.exe
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\bin\Release\DuplexClient.pdb
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.csprojResolveAssemblyReference.cache
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.Form1.resources
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.Properties.Resources.resources
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.csproj.GenerateResource.Cache
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.csproj.CoreCompileInputs.cache
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.exe
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexClient\DuplexClient\obj\Release\DuplexClient.pdb

@@ -1,0 +1,5 @@
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\ReportService\bin\Release\ReportService.dll
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\ReportService\bin\Release\ReportService.pdb
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\ReportService\obj\Release\ReportService.csproj.CoreCompileInputs.cache
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\ReportService\obj\Release\ReportService.dll
+D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\ReportService\obj\Release\ReportService.pdb
