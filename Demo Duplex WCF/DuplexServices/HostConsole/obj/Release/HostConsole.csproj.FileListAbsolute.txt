@@ -1,9 +1,0 @@
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\bin\Release\HostConsole.exe.config
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\bin\Release\HostConsole.exe
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\bin\Release\HostConsole.pdb
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\bin\Release\ReportService.dll
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\bin\Release\ReportService.pdb
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\obj\Release\HostConsole.csprojResolveAssemblyReference.cache
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\obj\Release\HostConsole.csproj.CoreCompileInputs.cache
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\obj\Release\HostConsole.exe
-D:\HospitalDevExpress\Demo Duplex WCF\DuplexServices\HostConsole\obj\Release\HostConsole.pdb

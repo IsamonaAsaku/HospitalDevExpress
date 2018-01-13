@@ -1,7 +1,0 @@
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\bin\HospitalWcfService.dll.config
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\bin\HospitalWcfService.dll
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\bin\HospitalWcfService.pdb
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\obj\Debug\HospitalWcfService.csprojResolveAssemblyReference.cache
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\obj\Debug\HospitalWcfService.csproj.CoreCompileInputs.cache
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\obj\Debug\HospitalWcfService.dll
-D:\HospitalDevExpress\HospitalDevexpress\HospitalWcfService\obj\Debug\HospitalWcfService.pdb
