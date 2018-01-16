@@ -10,15 +10,15 @@ using System.Windows.Forms;
 
 namespace HospitalDevexpress
 {
-    public partial class FrmMain : DevExpress.XtraEditors.XtraForm, HospitalServiceReference.IServiceHospitalCallback
+    public partial class FrmMain : DevExpress.XtraEditors.XtraForm
     {
         InstanceContext instanceContext;
-        HospitalServiceReference.ServiceHospitalClient client;
+        HospitalService.HospitalServiceClient client;
         public FrmMain()
         {
             InitializeComponent();
             instanceContext = new InstanceContext(this);
-            client = new HospitalServiceReference.ServiceHospitalClient(instanceContext);
+            client = new HospitalService.HospitalServiceClient();
             CheckForIllegalCrossThreadCalls = false;
         }
 
@@ -29,7 +29,7 @@ namespace HospitalDevexpress
 
         private void simpleButton1_Click(object sender, EventArgs e)
         {
-            client.ProcessReport();
+            MessageBox.Show(client.GetMessage("Thuận"));
         }
     }
 }

@@ -53,7 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Connected Services\HospitalServiceReference\Reference.cs">
+    <Compile Include="Connected Services\HospitalService\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -79,11 +79,11 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="app.config" />
-    <None Include="Connected Services\HospitalServiceReference\ServiceHospital.wsdl" />
-    <None Include="Connected Services\HospitalServiceReference\ServiceHospital.xsd">
+    <None Include="Connected Services\HospitalService\HospitalService.wsdl" />
+    <None Include="Connected Services\HospitalService\item.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Connected Services\HospitalServiceReference\ServiceHospital1.xsd">
+    <None Include="Connected Services\HospitalService\item1.xsd">
       <SubType>Designer</SubType>
     </None>
     <None Include="Properties\Settings.settings">
@@ -100,19 +100,19 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Connected Services\HospitalServiceReference\" />
+    <WCFMetadataStorage Include="Connected Services\HospitalService\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\HospitalServiceReference\ServiceHospital.disco" />
+    <None Include="Connected Services\HospitalService\item.disco" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\HospitalServiceReference\configuration91.svcinfo" />
+    <None Include="Connected Services\HospitalService\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\HospitalServiceReference\configuration.svcinfo" />
+    <None Include="Connected Services\HospitalService\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Connected Services\HospitalServiceReference\Reference.svcmap">
+    <None Include="Connected Services\HospitalService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
