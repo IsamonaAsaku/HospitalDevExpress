@@ -19,6 +19,8 @@ namespace HospitalDevexpress
             InitializeComponent();
             instanceContext = new InstanceContext(this);
             client = new HospitalService.HospitalServiceClient();
+            client.ClientCredentials.UserName.UserName = "far.ultimate@gmail.com";
+            client.ClientCredentials.UserName.Password = "Thuan123.";
             CheckForIllegalCrossThreadCalls = false;
         }
 
