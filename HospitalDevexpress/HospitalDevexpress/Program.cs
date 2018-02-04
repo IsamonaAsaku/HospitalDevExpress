@@ -24,8 +24,9 @@ namespace HospitalDevexpress
             BonusSkins.Register();
             SkinManager.EnableFormSkins();
             UserLookAndFeel.Default.SetSkinStyle("Visual Studio 2013 Light");
-            if (CheckInstance()) Application.Run(new FrmMain());
-            else Application.Run(new Compoment.Custom.FrmInfoMessage());
+            // if (CheckInstance())
+            Application.Run(new FrmMain());
+            //  else Application.Run(new Compoment.Custom.FrmInfoMessage());
         }
         static bool CheckInstance()
         {

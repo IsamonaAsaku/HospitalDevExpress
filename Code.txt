@@ -1,0 +1,3 @@
+makecert -n "CN=LuongGiaThuan" -r -sv ThuanCATest.pvk ThuanCATest.cer
+makecert -crl -n "CN=LuongGiaThuan" -r -sv ThuanCATest.pvk ThuanCATest.crl
+makecert -sk MyKeyName -iv ThuanCATest.pvk -n "CN=LuongGiaThuan" -ic ThuanCATest.cer -sr localmachine -ss my -sky exchange -pe 

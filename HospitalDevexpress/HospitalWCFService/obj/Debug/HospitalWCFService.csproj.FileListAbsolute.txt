@@ -1,0 +1,7 @@
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\bin\Debug\HospitalWCFService.dll.config
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\bin\Debug\HospitalWCFService.dll
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\bin\Debug\HospitalWCFService.pdb
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\obj\Debug\HospitalWCFService.csprojResolveAssemblyReference.cache
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\obj\Debug\HospitalWCFService.csproj.CoreCompileInputs.cache
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\obj\Debug\HospitalWCFService.dll
+D:\CoBaSaiGon\HospitalDevexpress\HospitalWCFService\obj\Debug\HospitalWCFService.pdb

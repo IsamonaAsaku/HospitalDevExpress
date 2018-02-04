@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configurationSnapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="urn:schemas-microsoft-com:xml-wcfconfigurationsnapshot">
+  <behaviors />
+  <bindings>
+    <binding digest="System.ServiceModel.Configuration.WSDualHttpBindingElement, System.ServiceModel, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089:&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data name=&quot;WSDualHttpBinding_IHospitalService&quot;&gt;&lt;security&gt;&lt;message algorithmSuite=&quot;TripleDesSha256Rsa15&quot; /&gt;&lt;/security&gt;&lt;/Data&gt;" bindingType="wsDualHttpBinding" name="WSDualHttpBinding_IHospitalService" />
+  </bindings>
+  <endpoints>
+    <endpoint normalizedDigest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://desktop-5f7j08e/TestWCF/MyService.svc/ReportService&quot; binding=&quot;wsDualHttpBinding&quot; bindingConfiguration=&quot;WSDualHttpBinding_IHospitalService&quot; contract=&quot;Service_Hospital.IHospitalService&quot; name=&quot;WSDualHttpBinding_IHospitalService&quot;&gt;&lt;identity&gt;&lt;servicePrincipalName value=&quot;host/DESKTOP-5F7J08E&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" digest="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&lt;Data address=&quot;http://desktop-5f7j08e/TestWCF/MyService.svc/ReportService&quot; binding=&quot;wsDualHttpBinding&quot; bindingConfiguration=&quot;WSDualHttpBinding_IHospitalService&quot; contract=&quot;Service_Hospital.IHospitalService&quot; name=&quot;WSDualHttpBinding_IHospitalService&quot;&gt;&lt;identity&gt;&lt;servicePrincipalName value=&quot;host/DESKTOP-5F7J08E&quot; /&gt;&lt;/identity&gt;&lt;/Data&gt;" contractName="Service_Hospital.IHospitalService" name="WSDualHttpBinding_IHospitalService" />
+  </endpoints>
+</configurationSnapshot>
